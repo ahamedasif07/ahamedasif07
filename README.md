@@ -23,7 +23,7 @@
 
 <br/>
 
-**「 Frontend Developer with JavaScript 」**
+**「 Frontend Developer with React.js 」**
 
 <br/>
 
