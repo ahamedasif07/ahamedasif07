@@ -15,7 +15,7 @@
   তারপর নিচের YOUR_USERNAME জায়গায় তোমার GitHub username দাও
   =====================================================
 -->
-<img src="https://raw.githubusercontent.com/ahamedasif07/ahamedasif07/main/flag.png" width="280" alt="Straw Hat Pirates Flag"/>
+<img src="/flag.png" width="280" alt="Straw Hat Pirates Flag"/>
 
 <br/><br/>
 
