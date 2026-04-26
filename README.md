@@ -1,5 +1,5 @@
 <div align="right">
- 
+  <img src="https://komarev.com/ghpvc/?username=ahamedasif07&label=Profile%20Views&color=fe428e&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -9,13 +9,7 @@
 
 <br/>
 
-<!-- 
-  =====================================================
-  FLAG: flag.svg ফাইলটা এই repo-তে upload করো
-  তারপর নিচের YOUR_USERNAME জায়গায় তোমার GitHub username দাও
-  =====================================================
--->
-<img src="/flag.png" width="280" alt="Straw Hat Pirates Flag"/>
+<img src="https://raw.githubusercontent.com/ahamedasif07/ahamedasif07/main/flag.png" width="280" alt="Straw Hat Pirates Flag"/>
 
 <br/><br/>
 
