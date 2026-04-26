@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahamedasif07&label=Profile%20Views&color=fe428e&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://raw.githubusercontent.com/ahamedasif07/ahamedasif07/main/flag.png" alt="Profile Views"/>
 </div>
 
 <div align="center">
