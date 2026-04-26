@@ -4,22 +4,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=3000&pause=70000&color=FFFFFF&center=true&width=130&height=24&lines=%3E+Hey+There!%2C" alt="Hey There"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=3000&pause=3000&color=FE428E&center=true&width=230&height=24&lines=I'm+Asif+Hosen.;I'm+from+Bangladesh.;Frontend+Developer." alt="Name Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=70000&color=FFFFFF&center=true&width=180&height=36&lines=%3E+Hey+There!%2C" alt="Hey There"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=3000&color=FE428E&center=true&width=340&height=40&lines=I'm+Asif+Hosen.;I'm+from+Bangladesh.;Frontend+Developer." alt="Name Typing"/>
 
-<img src="https://raw.githubusercontent.com/ahamedasif07/ahamedasif07/main/flag.png" width="280" alt="Straw Hat Pirates Flag"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=60000&color=2F81F7&center=true&width=420&height=32&lines=Hi+There!+I+am+a+Frontend+Developer+%F0%9F%91%8B" alt="Hi there"/>
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/ahamedasif07/ahamedasif07/main/flag.png" width="300" alt="Straw Hat Pirates Flag"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=70000&color=2F81F7&center=true&width=280&height=18&lines=2%2B+years+of+Frontend+Experience+%E3%80%8D" alt="Experience"/>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=70000&color=2F81F7&center=true&width=320&height=24&lines=2%2B+years+of+Frontend+Experience+%E3%80%8D" alt="Experience"/>
 
 **「 Frontend Developer with React.js 」**
-
-<br/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahamedasif01729?rdid=B2swPOEE7grVUsij#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-hosen-87269832b)
