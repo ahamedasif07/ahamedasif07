@@ -20,7 +20,7 @@
 
 <br/>
 
-**「 Frontend & Fullstack Solutions with Next.js & Modern Web Technologies 」**
+**「 Frontend Solutions with Next.js & Modern Web Technologies 」**
 
 <br/>
 
