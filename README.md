@@ -6,9 +6,9 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=70000&color=FFFFFF&center=true&width=220&height=45&lines=%3E+Hey+There!%2C" alt="Hey There"/>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=3000&color=FE428E&center=true&width=380&height=50&lines=I'm+Asif+Hosen.;I'm+from+Bangladesh.;Next.js+Developer." alt="Name Typing"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=3000&color=FE428E&center=true&width=380&height=50&lines=I'm+Asif+Hosen.;I'm+from+Bangladesh.;Frontend+Developer." alt="Name Typing"/>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=60000&color=2F81F7&center=true&width=500&height=40&lines=Hi+There!+I+am+a+Next.js+Developer+%F0%9F%91%8B" alt="Hi there"/>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=60000&color=2F81F7&center=true&width=500&height=40&lines=Hi+There!+I+am+a+Frontend+Developer+%F0%9F%91%8B" alt="Hi there"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-**「 Frontend Solutions with Next.js & Modern Web Technologies 」**
+**「 Frontend Developer specialized in Next.js & Modern Web Technologies 」**
 
 <br/>
 
@@ -38,21 +38,23 @@
 
 <img align="right" width="260" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding gif"/>
 
-- ✌️ &nbsp; Passionate **Next.js & Frontend Developer** building scalable web applications.
-- ❤️ &nbsp; Love writing clean, maintainable code and exploring modern frameworks.
+- ✌️ &nbsp; Dedicated **Frontend Developer** passionate about building interactive, scalable apps with **Next.js**.
+- ❤️ &nbsp; Love crafting clean UI/UX, reusable components, and robust web performance.
 - 🌍 &nbsp; Based in **Bangladesh** 🇧🇩
-- ⏱️ &nbsp; **2+ years** of practical web development experience.
+- ⏱️ &nbsp; **2+ years** of practical frontend development experience.
 - 📧 &nbsp; Email: [ahamedasif01729@gmail.com](mailto:ahamedasif01729@gmail.com)
-- 📞 &nbsp; Phone: `+880 1729 149634`
+- 📞 &nbsp; Phone: `01729149634`
 - 💬 &nbsp; Ask me anything on [WhatsApp](https://api.whatsapp.com/send/?phone=8801729149634)
 
 <br clear="right"/>
 
 ---
 
-## 💻 Technical Skills
+## 🚀 Technical Skills
 
-### 🌐 Frontend Development
+**Core Frontend & Libraries**
+<br/>
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)
@@ -61,12 +63,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios%20%2F%20API-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### ⚙️ Backend & CMS
+<br/>
+
+**Backend & Database (Familiarity)**
+<br/>
+
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -76,7 +82,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-DD1100?style=flat-square&logo=git&logoColor=white)
@@ -89,21 +95,21 @@
 
 ---
 
-## 🌟 Professional & Soft Skills
+## 🌟 Soft Skills & Strengths
 
-| Skill | Proficiency | Key Highlights |
+| Skill | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Client Handling** | `95%` | Clear requirement gathering, active communication, and delivering on commitments. |
-| **Teamwork & Collaboration** | `95%` | Seamless team sync, code reviews, and cross-functional coordination. |
-| **Quick Learner** | `95%` | Rapidly adopting new tech stacks, tools, and best industry practices. |
-| **Problem Solving** | `90%` | Debugging complex issues, optimizing performance, and finding scalable solutions. |
-| **Adaptability** | `92%` | Agile workflow experience and flexible to modern tech transitions. |
-| **Communication** | `88%` | Professional written and verbal communication across teams. |
-| **Attention to Detail** | `88%` | Pixel-perfect UI conversion from Figma and edge-case handling. |
-| **Critical Thinking** | `85%` | Architecture planning and logic optimization. |
-| **Time Management** | `85%` | Meeting tight project deadlines and prioritizing sprint tasks. |
-| **Project Management** | `80%` | Task estimation, feature planning, and structured delivery. |
-| **Responsibility** | `98%` | Highly dedicated to quality deliverables and end-to-end ownership. |
+| **Responsibility** | `98%` | Strong ownership of tasks and commitment to delivery. |
+| **Client Handling** | `95%` | Clear communication and understanding client needs. |
+| **Teamwork** | `95%` | Great collaboration, code reviews, and sync with teammates. |
+| **Quick Learner** | `95%` | Fast adaptation to new frontend tools, libraries, and best practices. |
+| **Adaptability** | `92%` | Flexible across different project requirements and sprint paces. |
+| **Problem Solving** | `90%` | Efficient debugging and writing performant solutions. |
+| **Communication** | `88%` | Smooth coordination with developers, clients, and design teams. |
+| **Attention to Detail** | `88%` | Pixel-perfect Figma to React/Next.js UI implementation. |
+| **Critical Thinking** | `85%` | Structuring clean component trees and state management logic. |
+| **Time Management** | `85%` | Meeting sprint goals without compromising code quality. |
+| **Project Management** | `80%` | Breaking down features and organized task tracking. |
 
 ---
 
